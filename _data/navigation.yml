@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "about"
-    url: /blog/welcome-to-jekyll/
+    url: /
   - title: "blog"
     url: /blog
   - title: "poetry"
