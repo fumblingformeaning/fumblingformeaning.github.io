@@ -7,7 +7,7 @@ description              : "A clean and minimal theme for writers."
 favicon                  : "/assets/images/logo.png"
 avatar                   : "/assets/images/logo.png"
 url                      : "https://fumblingformeaning.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "sparrow" # the subpath of your site, e.g. "/blog" leave blank if no subpath
+baseurl                  : "/sparrow" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
 author:
