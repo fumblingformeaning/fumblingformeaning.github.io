@@ -6,14 +6,14 @@ title_separator          : "-"
 description              : "A clean and minimal theme for writers."
 favicon                  : "/assets/images/logo.png"
 avatar                   : "/assets/images/logo.png"
-url                      : "https://www.fumblingformeaning.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  :   # the subpath of your site, e.g. "/blog" leave blank if no subpath
+url                      : "https://fumblingformeaning.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "sparrow" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
 author:
   name                   : "John Fumbler" # appears in the footer and atom feed
 
-comments                 : false # set it to false to disable comments
+comments                 : true # set it to false to disable comments
 disqus:
   shortname              : # sparrow-theme # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
@@ -24,7 +24,7 @@ og_image                 : "/assets/images/logo.png" # Open Graph/Twitter defaul
 
 # Social sharing
 twitter:
-  username               : "johnfumbler"# optional, for social sharing
+  username               : # optional, for social sharing
 
 # Analytics
 analytics:
