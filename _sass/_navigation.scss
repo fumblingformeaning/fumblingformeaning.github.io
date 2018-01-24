@@ -158,16 +158,18 @@
   width: 7em;
   height: 7em;
   
-  @include full();
-  height: inherit;
-  margin-bottom: 1em; 
+  @include breakpoint(max-width $small) {
+    @include full();
+    height: inherit;
+    margin-bottom: 1em;
+  }
 
   img {
     height: auto;
     width: 8em;
     display: block;
     margin: 0 auto;
-    
+
     @include breakpoint($large) {
       padding: 5px;
     }
@@ -181,10 +183,11 @@
   padding-right: 25px;
   line-height: 1;
 
-  @include full();
-  h3, p, ul, li { text-align: center; }
-  ul.collapsed li { text-align: left; }
-
+  @include breakpoint(max-width $small) {
+    @include full();
+    h3, p, ul, li { text-align: center; }
+    ul.collapsed li { text-align: left; }
+  }
   @include breakpoint($large) {
     padding-top: 1em;
   }
