@@ -1,9 +1,9 @@
 # Site Settings
 encoding                 : "utf-8"
 locale                   : "en"
-title                    : "Sparrow"
+title                    : "Fumbling for meaning"
 title_separator          : "-"
-description              : "A clean and minimal theme for writers."
+description              : ""
 favicon                  : "/assets/images/logo.png"
 avatar                   : "/assets/images/logo.png"
 url                      : "https://fumblingformeaning.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -11,7 +11,7 @@ baseurl                  : "/" # the subpath of your site, e.g. "/blog" leave bl
 
 # Site Author
 author:
-  name                   : "Lingyi" # appears in the footer and atom feed
+  name                   : "John Fumbler" # appears in the footer and atom feed
 
 comments                 : true # set it to false to disable comments
 disqus:
