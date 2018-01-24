@@ -2,7 +2,5 @@
 main:
   - title: "about"
     url: /
-  - title: "blog"
-    url: /blog
   - title: "subscribe"
     url: /feed.xml
