@@ -1,7 +1,7 @@
 # Site Settings
 encoding                 : "utf-8"
 locale                   : "en"
-title                    : "Fumbling for meaning"
+title                    : "fumbling for meaning"
 title_separator          : "-"
 description              : ""
 favicon                  : "/assets/images/logo.png"
