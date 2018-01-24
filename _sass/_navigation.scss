@@ -157,18 +157,16 @@
   vertical-align: top;
   width: 7em;
   height: 7em;
-  
+
   @include full();
   height: inherit;
   margin-bottom: 1em;
 
   img {
     height: auto;
-    @include breakpoint(max-width $small) {
-      width: 8em;
-      display: block;
-      margin: 0 auto;
-    }
+    width: 8em;
+    display: block;
+    margin: 0 auto;
   }
 }
 
@@ -182,6 +180,9 @@
   @include full();
   h3, p, ul, li { text-align: center; }
   ul.collapsed li { text-align: left; }
+  
+  @include breakpoint($large) {
+    padding-top: 1em;
   }
 }
 
