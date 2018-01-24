@@ -7,4 +7,10 @@ I’ve read a good number of books, blog posts, poems, speeches and comics that 
 
 *Fumbling For Meaning* is where I write about my journey and the epiphanies that come along on the way.
 
-	
+<h2>Blog</h2>
+
+{% for post in paginator.posts %}
+	{% include post-entry.html %}
+{% endfor %}
+
+{% include paginator.html %}
