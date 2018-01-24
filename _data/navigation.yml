@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "about"
+  - title: "blog"
     url: /
   - title: "subscribe"
     url: /feed.xml
