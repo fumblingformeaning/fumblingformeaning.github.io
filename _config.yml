@@ -7,7 +7,7 @@ description              : ""
 favicon                  : "/assets/images/logo.png"
 avatar                   : "/assets/images/logo.png"
 url                      : "https://fumblingformeaning.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog" leave blank if no subpath
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog" leave blank if no subpath
 
 # Site Author
 author:
