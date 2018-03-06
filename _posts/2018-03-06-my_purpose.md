@@ -11,13 +11,13 @@ To master yourself.
 
 ---
 
-The principles of a man who can do anything:
+The principles of a man who can accomplish anything:
 
-The **discipline** to build himself <br/>
+The **discipline** to build yourself<br/>
 The **will** to make it happen
 
 The **patience** to learn, unlearn and relearn <br/>
-The **faith** in himself to *endure* 
+The **faith** in yourself to *endure* 
 
 The **humility** to always *listen* <br/>
 The **self-awareness** to know when you lose your way
