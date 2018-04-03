@@ -2,7 +2,7 @@
 title: "The Commander and the Solider"
 ---
 
-I believe I exist in two states of mind. Each has a part to play, each equally important yet one often surpresses the other. 
+I believe I exist in two states of mind. Each has a part to play, each equally important, and yet one often surpresses the other. 
 
 I call them the Commander and the Soldier. But you can choose whatever you feel comfortable with. The Thinker and the Doer. The Astronomer and the Astronaut. The Brains and Brawn. The Captain and the Sailor. It doesn't matter what you call them. What matters is the role they have to play. 
 
