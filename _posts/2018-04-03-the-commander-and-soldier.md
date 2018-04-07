@@ -12,4 +12,4 @@ The only problem is, without action, all of what is said is but a happy fantasy.
 
 **The Soldier is the embodiment of my action.** If the soldier is incompetent, the finest commander is rendered useless. Therefore, *it is the soldier's responsibility to both develop himself and deliver on his targets*. It's not fun being the soldier. But his role is crucial. He must sweat in training and bleed in battle for the future promised by the commander. 
 
-But make no mistake, without the commander and his vision for the future, the soldier is reduced to but an animal acting on his immediate base desires. Both states of mind are important. **There must be balance.** 
+But make no mistake, without the commander and his vision for the future, the soldier is reduced to but an animal acting on his immediate base desires and fears. Both states of mind are important. **There must be balance.** 
