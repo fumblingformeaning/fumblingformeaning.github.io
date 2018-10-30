@@ -25,4 +25,4 @@ If you need time to decide or can't seem to focus enough to create an action pla
 
 After a while, this pain is no longer useful. Once it helps you identify what needs to be done, reject it. Make it irrelevant. It's wasting your time and energy. Focus on only the task at hand and do it to the best of your ability. You'll be slow at first and the results of your efforts may seem pointless. In spite of it, keep pushing yourself to act. Understand that it will take time. 
 
-In a few months, you will notice a difference. You will get better. Just keep pushing. 
+In a few months, you will notice a difference. It will get better. Just keep pushing. 
