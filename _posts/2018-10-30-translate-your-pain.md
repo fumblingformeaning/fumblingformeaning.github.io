@@ -2,11 +2,9 @@
 title: "Translate your pain into action"
 ---
 
-There have been so many moments when I'm overwhelmed with shame and disgust for myself. And in an attempt to alleviate that pain, I ask myself, "Do I deserve this?" 
+There have been so many moments when I'm overwhelmed with shame and disgust. I feel weak and in a state where I either blame the world or specific individuals. And in an attempt to alleviate that pain, I ask myself, "Do I deserve this?". 
 
-The thing is, there are moments when you can’t please everyone. You need to choose yourself over others. Sometimes, it's alright. *You did what you had to do.*
-
-But more often than I’d like, it really is my fault. I was disgusting and it should hurt. If I didn’t know or I was scared, I can forgive myself for that. But, that doesn’t excuse me from the pain. The consequences of your actions are absolute, irrespective of your intentions. 
+But the thing is, it usually is my fault. If I didn’t know or I was scared, I can forgive myself for that. But, that doesn’t excuse me from the pain. The consequences of your actions are absolute, irrespective of your intentions. You fucked up, now deal with it. 
 
 There's this Bushido saying:
 > "The decisions you make and the actions that follow are a reflection of who you are. You can not hide from yourself."
